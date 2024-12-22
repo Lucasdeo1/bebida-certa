@@ -35,3 +35,21 @@ A preferência por latas define a proporção entre latas e long necks:
 
 A fórmula usada para estimar o consumo total é:
 
+- **Consumo médio**: 5 cervejas por pessoa por hora.
+
+Os resultados são arredondados para números inteiros.
+
+## 🎨 Estilo e Design
+
+- Layout responsivo adaptado para dispositivos móveis.
+- Paleta de cores escura com destaques em laranja.
+
+## 📜 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
+Divirta-se no planejamento do seu evento com a **Calculadora de Cervejas**! 🍺
+
+
